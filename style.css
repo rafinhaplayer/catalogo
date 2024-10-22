@@ -1,4 +1,9 @@
 body{
-    background-color:darkturquoise;
+    background-color:plum;
     color:white;
     }
+
+    header{
+        border-bottom:solid 2px black;
+    }
+
